@@ -23,4 +23,4 @@ boxPacker.pack();
 
 The output is going to be coordinates in which each item is going to be placed in the bin and will have sequence number which represents the order of placement. If the sequence number is -1 the item cannot be placed.
 
-For visualtions purposes we use pyhton script (included in this repsository).
+For visualtions purposes we use python script (included in this repsository).
